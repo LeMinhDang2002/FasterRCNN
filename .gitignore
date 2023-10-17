@@ -1,0 +1,15 @@
+Car
+env
+Mobile phone
+model
+Person
+Spotify_Mood_Playlists
+test
+train
+annotation.txt
+model_vgg_config.pickle
+test_annotation.txt
+test.csv
+train-annotations-bbox.csv
+train-images-boxable-with-rotation.csv
+train.csv
